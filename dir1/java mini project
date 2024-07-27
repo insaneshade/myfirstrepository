@@ -1,4 +1,4 @@
-iiimport java.util.*;
+import java.util.*;
 
 public class Demo {
     public static void main (String args[]) {
@@ -24,6 +24,3 @@ public class Demo {
         System.out.println("MY NUMBER WAS : " + myNumber);
     }
 }
-
-print("my number as 0")
-
